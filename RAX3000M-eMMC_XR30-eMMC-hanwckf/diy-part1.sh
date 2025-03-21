@@ -18,4 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #git clone https://github.com/messense/aliyundrive-webdav package/messense
 #git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
-git clone https://github.com/ntlf9t/luci-app-easymesh package/luci-app-easymesh
+#git clone https://github.com/ntlf9t/luci-app-easymesh package/luci-app-easymesh
